@@ -1,0 +1,10 @@
+Plaintext
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+*.log
+.streamlit/
+.vscode/
+.idea/
