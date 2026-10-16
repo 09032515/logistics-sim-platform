@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+*.log
+.streamlit/
+.vscode/
+.idea/
+*.xlsx
